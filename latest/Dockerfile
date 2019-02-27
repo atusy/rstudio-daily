@@ -1,4 +1,4 @@
-FROM rocker/rstudio
+FROM rocker/verse:latest
 
 
 RUN apt-get update \
